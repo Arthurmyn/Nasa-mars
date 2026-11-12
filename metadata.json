@@ -1,0 +1,6 @@
+{
+  "name": "Redline — Mars Trips",
+  "description": "Book your seat to Mars. A three-step interactive 3D journey from Mars orbit to Tharsis and canyon landing sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
